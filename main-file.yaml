@@ -1,0 +1,4 @@
+pipeline:
+  processors:
+    - label: test-processor
+      noop: {}
