@@ -1,4 +1,0 @@
-pipeline:
-  processors:
-    - label: ""
-      noop: {}
