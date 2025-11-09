@@ -1,0 +1,10 @@
+output:
+  label: ""
+  drop:
+    additionalProperties: false
+    properties:
+      component:
+        additionalProperties: false
+        properties: {}
+        type: object
+    type: object
